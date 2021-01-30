@@ -4,6 +4,8 @@
 
 #### I'm currently working on [AutoLeak](https://github.com/FortniteFevers/AutoLeak) which is a multi-tool program to leak the contents of Fortnite.
 
+#### I'm also currently learning C#, Java, and NodeJS.
+
 ### Contact me:
 
 [<img align="left" alt="Fevers | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
