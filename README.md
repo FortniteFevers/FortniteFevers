@@ -16,7 +16,9 @@
 
 ---
 
-<img align="left" alt="ItsSyfe's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=FortniteFevers&theme=dracula&show_icons=true" />
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=FortniteFevers&count_private=true&show_icons=true&theme=dark" alt="Github Stats"/>
+</p>
 
 [twitter]: https://twitter.com/FeversLeaks
 [youtube]: https://www.youtube.com/channel/UCnHJmJsV5zPigARMAin0uJQ
