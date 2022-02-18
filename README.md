@@ -1,10 +1,12 @@
-### Hi there, I'm Fevers! 👋
+## Hi there, I'm Fevers! 👋
 
-## I'm a Software and bot Developer, I also make Youtube videos and I am a leaker!
+- I'm a Software and bot Developer, I also make Youtube videos and I am a leaker!
 
-#### I'm currently working on [AutoLeak](https://github.com/FortniteFevers/AutoLeak) which is a multi-tool program to leak the contents of Fortnite.
+- My main languge is Python. I have been learning for around two years now.
 
-#### I'm also currently learning C#, Java, and NodeJS.
+- I'm currently working on [AutoLeak](https://github.com/FortniteFevers/AutoLeak) which is a multi-tool program to leak the contents of Fortnite.
+
+- I'm also currently learning C#, Java, and NodeJS.
 
 ### Contact me:
 
@@ -20,7 +22,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=FortniteFevers&count_private=true&show_icons=true&theme=dark" alt="Github Stats"/>
 </p>
 
-[twitter]: https://twitter.com/FeversLeaks
+[twitter]: https://twitter.com/FeversLol
 [youtube]: https://www.youtube.com/channel/UCnHJmJsV5zPigARMAin0uJQ
-[discord]: https://discord.bio/p/fevers
+[discord]: https://discords.com/bio/p/feversdev
 
