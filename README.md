@@ -2,9 +2,9 @@
 
 - I'm a Software and bot Developer, I also make Youtube videos and I am a leaker!
 
-- My main languge is Python. I have been learning for around two years now.
+- My main languge is Python. I have been learning for around four years now.
 
-- I'm currently working on [AutoLeak](https://github.com/FortniteFevers/AutoLeak) which is a multi-tool program to leak the contents of Fortnite.
+- I'm currently working on a variety of programs, some of them are public, some of them are private.
 
 - I'm also currently learning C#, Java, and NodeJS.
 
