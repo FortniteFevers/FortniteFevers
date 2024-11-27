@@ -24,5 +24,5 @@
 
 [twitter]: https://twitter.com/FeversLol
 [youtube]: https://www.youtube.com/channel/UCnHJmJsV5zPigARMAin0uJQ
-[discord]: https://discords.com/bio/p/feversdev
+[discord]: https://dsc.bio/feversdev
 
