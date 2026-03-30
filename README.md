@@ -1,10 +1,10 @@
 ## Hi there, I'm Fevers! 👋
 
-- I'm a Software and bot Developer, I also make Youtube videos and I am a leaker!
+- Despite being a software and bot developer, I am also a 3D/2D graphic designer, film & music fan, and many more.
 
-- My main languge is Python. I have been learning for around four years now.
+- My main languge is Python. I have been learning for around seven years now.
 
-- I'm currently working on a variety of programs, some of them are public, some of them are private.
+- I'm currently working on a variety of programs, some of them are public, some of them are private, and the majority are archived.
 
 - I'm also currently learning C#, Java, and NodeJS.
 
