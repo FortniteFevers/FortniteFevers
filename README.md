@@ -10,14 +10,14 @@
 
 ### Contact me:
 
-[<img align="left" alt="Zach on Linktree" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png" />][linktree]
+[<img align="left" alt="Zach on Linktree" width="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png" />][linktree]
 
 <br />
 
----
+-----
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=FortniteFevers&count_private=true&show_icons=true&theme=dark" alt="Github Stats"/>
 </p>
 
-[linktree]: https://linktr.ee/zach_spam06
+[linktree]: https://linktr.ee/zachspam06
