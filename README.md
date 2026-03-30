@@ -10,9 +10,7 @@
 
 ### Contact me:
 
-[<img align="left" alt="Fevers | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Fevers | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Fevers | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="Zach on Linktree" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png" />][linktree]
 
 <br />
 
@@ -22,7 +20,4 @@
    <img src="https://github-readme-stats.vercel.app/api?username=FortniteFevers&count_private=true&show_icons=true&theme=dark" alt="Github Stats"/>
 </p>
 
-[twitter]: https://twitter.com/FeversLol
-[youtube]: https://www.youtube.com/channel/UCnHJmJsV5zPigARMAin0uJQ
-[discord]: https://dsc.bio/feversdev
-
+[linktree]: https://linktr.ee/zach_spam06
