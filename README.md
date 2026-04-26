@@ -6,6 +6,8 @@
 
 - I'm currently working on a variety of programs, some of them are public, some of them are private, and the majority are archived.
 
+- My focus right now is AI. How do we use it? When do we use it? What are the ethical uses? My new repo, FNLeak, is the direct result in myself using it in a positive setting. Taking my old AutoLeak repo, and redoing from the ground up.
+
 - I'm also currently learning C#, Java, and NodeJS.
 
 ### Contact me:
