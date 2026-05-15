@@ -8,7 +8,7 @@
 
 - My focus right now is AI. How do we use it? When do we use it? What are the ethical uses? My new repo, FNLeak, is the direct result in myself using it in a positive setting. Taking my old AutoLeak repo, and redoing from the ground up.
 
-- I'm also currently learning C#, Java, and NodeJS.
+- I'm also currently learning C#, Java, C++ and NodeJS.
 
 ### Contact me:
 
