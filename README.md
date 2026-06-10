@@ -18,8 +18,4 @@
 
 -----
 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=FortniteFevers&count_private=true&show_icons=true&theme=dark" alt="Github Stats"/>
-</p>
-
-[linktree]: https://linktr.ee/zachspam06
+![fortnitefevers's Stats](https://github-readme-stats.vercel.app/api?username=fortnitefevers&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
