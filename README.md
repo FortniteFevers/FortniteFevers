@@ -1,21 +1,30 @@
-## Hi there, I'm Fevers! 👋
+# Zach Andelman (Fevers)
 
-- Despite being a software and bot developer, I am also a 3D/2D graphic designer, film & music fan, and many more.
+Designer · Photographer · Developer · Elon University
 
-- My main languge is Python. I have been learning for around seven years now.
+---
 
-- I'm currently working on a variety of programs, some of them are public, some of them are private, and the majority are archived.
+I've spent 8 years inside the creator economy — building tools, doing 3D work for clients, shooting concerts and sports, and growing communities. My main language is Python, but I work across the stack.
 
-- My focus right now is AI. How do we use it? When do we use it? What are the ethical uses? My new repo, FNLeak, is the direct result in myself using it in a positive setting. Taking my old AutoLeak repo, and redoing from the ground up.
+- 🔨 Currently building **FNLeak** — a Fortnite leak aggregator rebuilt from the ground up
+- 📷 Concert & sports photographer shooting on Sony a6100
+- 🎨 3D/2D graphic designer — 75+ freelance clients, all human-made work
+- 🎓 Studying Economics at Elon University
+- 🎯 Targeting creator partnership roles at companies like Epic Games
 
-- I'm also currently learning C#, Java, C++ and NodeJS.
+---
 
-### Contact me:
+### Tools & Languages
 
-[<img align="left" alt="Zach on Linktree" width="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png" />][linktree]
+`Python` `Next.js` `TypeScript` `Blender` `Cinema 4D` `Photoshop` `Lightroom` `Illustrator` `DaVinci Resolve`
 
-<br />
+---
 
------
+### Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-fevers.dev-C8B89A?style=for-the-badge)](https://fevers.dev)
+[![Links](https://img.shields.io/badge/Links-fevers.dev%2Flinks-C8B89A?style=for-the-badge)](https://fevers.dev/links)
+
+---
 
 ![fortnitefevers's Stats](https://github-readme-stats.vercel.app/api?username=fortnitefevers&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
